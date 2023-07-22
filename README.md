@@ -4,7 +4,7 @@
 
 As a recent graduate with a passion for Data Science, I have diverse expertise in data analytics, exploratory data analysis, statistics and machine learning modeling. My experience applying these techniques to real-world projects, such as predicting scholarship awards, has honed my ability to analyze and decipher complex data. With a strong educational background in data science and a collaborative spirit, I thrive in a data-driven team environment. I am passionate about emerging trends in AI and big data and want to contribute innovative solutions to the ever-evolving world of Data Science.
 
-### Connect with me:
+# Connect with me:
 
 [![website](./img/globe-light.svg)](https://portofolio-jeff.streamlit.app#gh-dark-mode-only)
 [![website](./img/globe-dark.svg)](https://portofolio-jeff.streamlit.app#gh-dark-mode-only)
