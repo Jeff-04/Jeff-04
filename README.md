@@ -12,7 +12,7 @@ As a recent graduate with a passion for Data Science, I have diverse expertise i
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jefrimaulana)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/jefri.mln))
+[![website](./img/instagram-dark.svg)](https://instagram.com/jefri.mln)
 
 ---
 
