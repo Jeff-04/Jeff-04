@@ -1,4 +1,4 @@
-# 🏄‍♂️ Jefri Maulana
+# 🤖 Jefri Maulana
 
 **`Data Scientist | Machine Learning Enthusiast`**
 
