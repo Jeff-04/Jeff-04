@@ -6,17 +6,17 @@ As a recent graduate with a passion for Data Science, I have diverse expertise i
 
 # Connect with me:
 
-[![website](./img/globe-light.svg)](https://portofolio-jeff.streamlit.app#gh-dark-mode-only)
-[![website](./img/globe-dark.svg)](https://portofolio-jeff.streamlit.app#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://portofolio-jeff.streamlit.app)
+[![website](./img/globe-dark.svg)](https://portofolio-jeff.streamlit.app)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC2T__dxSsAkFmTZEKzPQSQA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC2T__dxSsAkFmTZEKzPQSQA#gh-light-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC2T__dxSsAkFmTZEKzPQSQA)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC2T__dxSsAkFmTZEKzPQSQA)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jefrimaulana#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jefrimaulana#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jefrimaulana)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jefrimaulana)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/jefri.mln#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/jefri.mln#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/jefri.mln)
+[![website](./img/instagram-dark.svg)](https://instagram.com/jefri.mln)
 
 ---
 
